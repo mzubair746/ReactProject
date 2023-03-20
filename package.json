@@ -1,0 +1,12 @@
+{
+  "homepage": "https://mzabi746r.github.io/liveweather",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "react-router-dom": "^6.8.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "react-scripts build"
+  }
+}

@@ -1,0 +1,38 @@
+.To
+{
+    position: absolute;
+   top: 30%;
+   left: 40%;
+    
+  
+
+}
+.To h2
+{
+    padding-left: 3%;
+}
+.dele
+{
+display: flex;
+justify-content: space-between;
+background-color: rgb(199, 29, 91);
+border-radius: 10px;
+border:double;
+border-bottom: 10px;
+}
+.dele button
+{
+    border:double;
+    outline: none;
+    background: #30411e;
+    padding:20px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.dele h4{
+  margin-top: 20px;
+    
+}
